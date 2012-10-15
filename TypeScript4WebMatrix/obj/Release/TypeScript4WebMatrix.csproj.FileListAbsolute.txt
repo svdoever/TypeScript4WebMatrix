@@ -1,0 +1,7 @@
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\buildoutput\DesignFactory.WebMatrix.Executer.dll
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\buildoutput\TypeScript4WebMatrix.dll
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\buildoutput\TypeScript4WebMatrix.pdb
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\TypeScript4WebMatrix\obj\Release\TypeScript4WebMatrix.g.resources
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\TypeScript4WebMatrix\obj\Release\TypeScript4WebMatrix.dll
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\TypeScript4WebMatrix\obj\Release\TypeScript4WebMatrix.pdb
+C:\Users\serge\Dropbox\Projects\GitHub.MacawNL\TypeScript4WebMatrix\TypeScript4WebMatrix\obj\Release\TypeScript4WebMatrix.csprojResolveAssemblyReference.cache
